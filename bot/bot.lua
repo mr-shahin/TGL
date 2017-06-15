@@ -117,9 +117,10 @@ function create_config( )
 "WhiteList",
 "AddSudo",
 "KickMe",
+"msg-checks"
 	},
     sudo_users = {
-   373670309,
+ 203850910,
    sudo_id
 },
     admins = {},
